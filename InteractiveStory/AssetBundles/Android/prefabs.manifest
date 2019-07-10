@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1538679948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba4fae249af5026ab1b0f16c2f307a54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a390db1f77cc09d4f86dfba2795ff90a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00f6357590e966c4dadc7d6e456e5a67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68f7c3806b965e14998d5ca00255a26b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Narrator.prefab
+- Assets/Prefabs/Player.prefab
+- Assets/Prefabs/ChoiceButton.prefab
+- Assets/Prefabs/Sam.prefab
+- Assets/Prefabs/Jerry.prefab
+Dependencies: []

@@ -1,0 +1,189 @@
+{
+  "passages": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,\n[[Next|Player]]\n",
+      "links": [
+        {
+          "name": "Next|Player",
+          "link": "Next|Player"
+        }
+      ],
+      "name": "...",
+      "pid": "1",
+      "position": {
+        "x": "434",
+        "y": "49"
+      },
+      "tags": [
+        "BG_Apartment",
+        "Sound_Life",
+        "CharName_Narrator"
+      ]
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo\n[[Hello]]\n",
+      "links": [
+        {
+          "name": "Hello",
+          "link": "Hello",
+          "pid": "6"
+        }
+      ],
+      "name": "Player",
+      "pid": "2",
+      "position": {
+        "x": "288",
+        "y": "126"
+      },
+      "tags": [
+        "Sound_Romantic",
+        "BG_Beauty_salon",
+        "CharName_Player",
+        "Emotion_Neutral"
+      ]
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur\n[[OK]]\n",
+      "links": [
+        {
+          "name": "OK",
+          "link": "OK",
+          "pid": "7"
+        }
+      ],
+      "name": "Sam",
+      "pid": "3",
+      "position": {
+        "x": "485",
+        "y": "295"
+      },
+      "tags": [
+        "BG_Bar",
+        "Sound_Life",
+        "CharName_Sam",
+        "Emotion_Sad"
+      ]
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et\n[[Hmm..]]\n",
+      "links": [
+        {
+          "name": "Hmm..",
+          "link": "Hmm..",
+          "pid": "5"
+        }
+      ],
+      "name": "Jerry",
+      "pid": "4",
+      "position": {
+        "x": "182",
+        "y": "391"
+      },
+      "tags": [
+        "BG_Bar",
+        "Sound_Investigation",
+        "Emotion_Shocked",
+        "CharName_Jerry"
+      ]
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean\n[[I Don't know|Hello]]\n[[Hi Sam|Sam]]\n[[End]]\n",
+      "links": [
+        {
+          "name": "I Don't know|Hello",
+          "link": "I Don't know|Hello"
+        },
+        {
+          "name": "Hi Sam|Sam",
+          "link": "Hi Sam|Sam"
+        },
+        {
+          "name": "End",
+          "link": "End",
+          "pid": "8"
+        }
+      ],
+      "name": "Hmm..",
+      "pid": "5",
+      "position": {
+        "x": "316",
+        "y": "578"
+      },
+      "tags": [
+        "BG_Bar",
+        "Sound_Investigation",
+        "Emotion_Angry",
+        "CharName_Jerry"
+      ]
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.\n[[Hi Sam|Sam]]\n[[Hi Jerry|Jerry]]",
+      "links": [
+        {
+          "name": "Hi Sam|Sam",
+          "link": "Hi Sam|Sam"
+        },
+        {
+          "name": "Hi Jerry|Jerry",
+          "link": "Hi Jerry|Jerry"
+        }
+      ],
+      "name": "Hello",
+      "pid": "6",
+      "position": {
+        "x": "289",
+        "y": "254"
+      },
+      "tags": [
+        "Sound_Romantic",
+        "BG_Beauty_salon",
+        "CharName_Player",
+        "Emotion_Happy"
+      ]
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et\n[[Return|Hello]]\n[[Hi Jerry|Jerry]]\n[[End]]",
+      "links": [
+        {
+          "name": "Return|Hello",
+          "link": "Return|Hello"
+        },
+        {
+          "name": "Hi Jerry|Jerry",
+          "link": "Hi Jerry|Jerry"
+        },
+        {
+          "name": "End",
+          "link": "End",
+          "pid": "8"
+        }
+      ],
+      "name": "OK",
+      "pid": "7",
+      "position": {
+        "x": "487",
+        "y": "432"
+      },
+      "tags": [
+        "BG_Bar",
+        "Sound_Life",
+        "CharName_Sam",
+        "Emotion_Happy"
+      ]
+    },
+    {
+      "text": "END!!!",
+      "name": "End",
+      "pid": "8",
+      "position": {
+        "x": "141",
+        "y": "575"
+      }
+    }
+  ],
+  "name": "SwagMasha",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.3.2",
+  "ifid": "17D155E4-1232-4E19-AC37-D7294D924671"
+}

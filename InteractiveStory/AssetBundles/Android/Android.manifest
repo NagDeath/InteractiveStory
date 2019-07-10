@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1955780940
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs
+      Dependencies: {}
+    Info_1:
+      Name: music
+      Dependencies: {}
+    Info_2:
+      Name: backgrounds
+      Dependencies: {}
+    Info_3:
+      Name: json
+      Dependencies: {}

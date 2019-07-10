@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3604702989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 798e2ef57cc93423bcda9dfb4185e9fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Images/Backgrounds/Bar.png
+- Assets/Images/Backgrounds/Apartment.png
+- Assets/Images/Backgrounds/Beauty_salon.png
+Dependencies: []
